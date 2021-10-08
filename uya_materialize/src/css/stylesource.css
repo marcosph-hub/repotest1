@@ -1,0 +1,82 @@
+
+html {
+  position: relative;
+  background-image: url("../../img/background_img.jpg");
+}
+
+nav {
+  background-color: #5c068c;
+}
+
+nav ul li.active {
+  background-color: #5c068c;
+}
+
+nav ul li:hover{
+  background-color: #390D52;
+}
+footer {
+  margin-top: 4px;
+  bottom: 0;
+  position: relative;
+  background-color: #5c068c;
+}
+
+.page-footer {
+  background-color: #5c068c;
+}
+
+.collection {
+  color: #5c068c;
+  text-align: center;
+}
+
+.card_dec {
+  height: 347px;
+}
+
+.icon_dec {
+  color: black;
+}
+
+#avatar_img{
+  height: auto;
+  width: 50px;
+}
+
+#avatar_img_1 {
+  height: auto;
+  width: 50px;
+}
+
+#avatar_img_2 { 
+  height: auto;
+  width: 50px;
+}
+
+#logo_nav {
+  width: 65px;
+  height: 62px;
+}
+
+#twitter_logo {
+  margin-top: 15px;
+  width: 35px;
+  height: 20%;
+}
+
+#first_right_col {
+  margin-left: -15px;
+  height: 347px;
+}
+
+#background-img_container {
+  background-image: url("../../img/ull_logo_vector");
+  height: 350px;
+  margin-top: -60px;
+  margin-bottom: -30px;
+}
+
+#main_logo_subtitle {
+color: #5c068c;
+}
